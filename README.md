@@ -14,9 +14,10 @@ This was completed for Hack Club's [Solder](solder.hackclub.com), and it's a per
 
 ## Pictures
 ### Schematic
-![alt text](https://github.com/cloudtwelve/markdown-here/raw/master/images/schematic_view.png)
+![Schematic](https://github.com/cloudtwelve/hacker-card/raw/master/images/schematic_view.png)
+
 ### PCB
-![alt text](https://github.com/cloudtwelve/markdown-here/raw/master/images/pcb_view.png)
+![PCB](https://github.com/cloudtwelve/hacker-card/raw/master/images/pcb_view.png)
 
 ### 3D View
-![alt text](https://github.com/cloudtwelve/markdown-here/raw/master/images/dimension_view.png)
+![3D View](https://github.com/cloudtwelve/hacker-card/raw/master/images/dimension_view.png)
