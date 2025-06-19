@@ -14,10 +14,10 @@ This was completed for Hack Club's [Solder](solder.hackclub.com), and it's a per
 
 ## Pictures
 ### Schematic
-![Schematic](https://github.com/cloudtwelve/hacker-card/raw/master/images/schematic_view.png)
+![Schematic](https://github.com/CloudTwelve/hacker-card/blob/main/images/schematic_view.png)
 
 ### PCB
-![PCB](https://github.com/cloudtwelve/hacker-card/raw/master/images/pcb_view.png)
+![PCB](https://github.com/CloudTwelve/hacker-card/blob/main/images/pcb_view.png)
 
 ### 3D View
-![3D View](https://github.com/cloudtwelve/hacker-card/raw/master/images/dimension_view.png)
+![3D View](https://github.com/CloudTwelve/hacker-card/blob/main/images/dimension_view.png)
